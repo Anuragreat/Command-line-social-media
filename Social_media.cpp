@@ -108,7 +108,7 @@ int main() {
     // Users create posts
     app.createPost("Ishant", "Hello from Ishant!");
     app.createPost("Anubhav", "Hey, Anubhav here!");
-    app.createPost("Anubhav", "Good morning everyone!");
+    app.createPost("Anubhav", "Good morning everyone");
 
     // View feed for Abhinav
     app.viewFeed("Abhinav");
