@@ -6,7 +6,7 @@ This is a simple command-line social media application written in C++. The app a
 ## Features
 
 - **User Profiles**: Create new users with unique usernames.
-- **Follow Other Users**: Users can follow one another.
+- **Follow Other Users**: Users can follow one another...
 - **Create Posts**: Users can create posts that are stored under their profiles.
 - **View Feed**: Users can view a feed of posts made by the users they follow.
 
